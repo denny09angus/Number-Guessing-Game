@@ -1,0 +1,66 @@
+body{
+    background: url("https://wallpaperaccess.com/full/1477288.png")
+}
+.main{
+    border: 3px solid rgb(59, 59, 59);
+    width: 600px;
+    text-align: center;
+    background: rgb(160, 160, 160);
+    margin: auto;
+    margin-top: 12%;
+}
+
+
+li{
+    text-align: justify;
+    padding-left: 145px;
+    padding-bottom: 5px;
+    color:rgb(0, 0, 0);
+}
+
+
+#n1{
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+
+input[type="submit"]{
+    height: 25px;
+    width: 75px;
+    background: rgb(53, 53, 53);
+    color: rgb(255, 255, 255);
+    font-size:medium;
+    font-weight: bold;
+    border: 0;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+
+h3{
+    color:rgb(0, 0, 0)
+}
+
+
+#res{
+    width: 500px;
+    height: 25px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    margin-left: 60px;
+}
